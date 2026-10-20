@@ -2,8 +2,8 @@
 # bangla-voice-clock (macos/homebrew/); the release job fills in version and
 # sha256 for each tag and pushes it to the tap.
 cask "bangla-voice-clock" do
-  version "0.2.0"
-  sha256 "c3f3e666c4d6480530c70b3c80fcb04a9449d75a63fd120081eaa342f288750e"
+  version "0.3.0"
+  sha256 "27e952b9351c88119928ee50da6a7edeb636aa1b1d9e16a8bf498ef1b0fd9360"
 
   url "https://github.com/saifulmd0/bangla-voice-clock/releases/download/v#{version}/BanglaVoiceClock-v#{version}-macos.dmg"
   name "Bangla Voice Clock"
